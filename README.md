@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shaikhneha2911
 - 👀 I’m interested in Machine Learning and applications
--📚I’m currently a Grad Student majoring in Data Analytics at San Jose State University
+- 📚I’m currently a Grad Student majoring in Data Analytics at San Jose State University
 - 💞️ I’m looking to collaborate on Machine Learning projects.
 - 🔭 am interested in research ideas on LLMs and other AI technologies.
 - 📫 How to reach me shaikhneha2911@gmail.com
@@ -48,7 +48,7 @@
     </tr>
 </table>
 </div>
-
+Thanks for visiting my profile.
 <!---![Uploading pytorch.png…](![tensorflow]()
 
 
