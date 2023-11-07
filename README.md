@@ -3,11 +3,12 @@
 <img src="user (2).gif">
 
 - 👀 I’m interested in Machine Learning and applications
-- 📚I’m currently a Grad Student majoring in Data Analytics at San Jose State University
+- 📚I’m currently a graduate student majoring in Data Analytics at San Jose State University
 - 💞️ I’m looking to collaborate on Machine Learning projects.
 - 🔭 am interested in research ideas on LLMs and other AI technologies.
 - 📫 How to reach me shaikhneha2911@gmail.com
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-ns/)
+- [Portfolio](https://nehaashaikh2911.wixsite.com/my-site-1)
 
 ---
 | ![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaikhneha2911&show_icons=true&theme=radical) | [![Neha's Stri](https://streak-stats.demolab.com?user=ashaikhneha2911&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
