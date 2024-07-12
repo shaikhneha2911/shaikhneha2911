@@ -40,8 +40,7 @@
 | [<img src = "https://github.com/shaikhneha2911/Credit-Card-Fraud-Detection-Using-Neo4j/blob/main/CCFD.png" width = 500 height = 300/>](https://github.com/shaikhneha2911/Credit-Card-Fraud-Detection-Using-Neo4j)| 
 <hr style="border:0.01px solid blue"> 
 
-
-
+<h2 align = "center">  Big Data Projects </h2> 
 
 Thanks for visiting my profile.
 <!---![Uploading pytorch.png…](![tensorflow]()
