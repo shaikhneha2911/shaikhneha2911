@@ -42,6 +42,20 @@
 
 <h2 align = "center">  Big Data Projects </h2> 
 
+| [YouTube Video Data Analysis using AWS](https://github.com/shaikhneha2911/YouTube-Video-Data-Analysis-using-AWS)| [Web Crawler For Online Inflation Using Apache Spark](https://github.com/shaikhneha2911/Web-Crawler-For-Online-Inflation)|
+| :-:| :-:| 
+| [<img src = "https://github.com/shaikhneha2911/YouTube-Video-Data-Analysis-using-AWS/blob/main/youtube.png" alt="my banner" width = 500 height = 250/>](https://github.com/shaikhneha2911/YouTube-Video-Data-Analysis-using-AWS)| [<img src = "https://github.com/shaikhneha2911/Web-Crawler-For-Online-Inflation/blob/main/price-inflation.png" width = 500 height = 250/>](https://github.com/shaikhneha2911/Web-Crawler-For-Online-Inflation)
+ 
+| [Audio Classification using Pyspark](https://github.com/shaikhneha2911/Big-Data-Projects/tree/main/Audio-Classification)| |
+| :-:| :-:| 
+| [<img src = "https://github.com/shaikhneha2911/Big-Data-Projects/blob/main/Audio-Classification/audio_classification.png" alt="my banner" width = 500 height = 250/>](https://github.com/shaikhneha2911/Big-Data-Projects/tree/main/Audio-Classification)| 
+
+<h2 align = "center"> Natural Language Processing (NLP) Projects </h2> 
+
+| [Twitter Sentiment Analysis ](https://github.com/iqrabismii/Twitter-Sentiment-Analysis-for-Various-Health-Issues)| [Extracting Stock Sentiment from News Headlines](https://github.com/iqrabismii/Stock-Sentiment-from-News-Headlines)|
+| :-:| :-:| 
+| [<img src = "https://user-images.githubusercontent.com/108056063/213907438-fefe9986-d909-4bdb-b087-4c1f983a129f.png" alt="my banner" width = 500 height = 250/>](https://github.com/iqrabismii/Twitter-Sentiment-Analysis-for-Various-Health-Issues)| [<img src = "https://user-images.githubusercontent.com/108056063/213995982-b35937ce-3cb4-4b3e-8c0e-d174643c0aaa.png" width = 500 height = 250/>](https://github.com/iqrabismii/Stock-Sentiment-from-News-Headlines)
+
 Thanks for visiting my profile.
 <!---![Uploading pytorch.png…](![tensorflow]()
 
